@@ -1,0 +1,15 @@
+body {
+    background-color: #6495ED;
+}
+div {
+    text-align: center;
+}
+img {
+    border-radius: 5%;
+}
+.cor {
+    color: orange;
+}
+li {
+    line-height: 0.6cm;
+}
